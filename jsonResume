@@ -1,0 +1,84 @@
+{
+  "basics": {
+    "name": "Hitesh Vishal S V",
+    "label": "Programmer",
+    "image": "https://media-exp1.licdn.com/dms/image/C5603AQHu0_A-cQ3DfQ/profile-displayphoto-shrink_200_200/0/1626675002358?e=1637193600&v=beta&t=SEsrb1j35HNtjke4Y2144JAlzXG-nuoQprypnp-vjdw",
+    "email": "hiteshvishalsubramani@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://nourl.com",
+    "summary": "A summary of Hitesh",
+    "location": {
+      "address": "JP Nagar",
+      "postalCode": "560078",
+      "city": "Bangalore",
+      "country": "India",
+      "region": "Asia"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "HiteshVishal",
+      "url": "https://twitter.com/hiteshvishal"
+    }]
+  },
+  "work": [{
+    "name": "ABC",
+    "position": "Advisor",
+    "url": "https://abc.com",
+    "startDate": "2020-01-01",
+    "endDate": "Ongoing",
+    "summary": "Working as an advisor in abc company",
+    
+  }],
+  
+  "education": [{
+    "institution": "Reva University",
+    "url": "https://reva.edu.in/",
+    "area": "Electrical and Electronics",
+    "studyType": "Bachelor of Engineering",
+    "startDate": "2015-09-01",
+    "endDate": "2019-06-01",
+    "score": "7.64",
+    
+  }],
+  "awards": [{
+    "title": "SAE Mahindra E-BAJA",
+    "date": "2019-02-01",
+    "awarder": "E-BAJA",
+    "summary": "Building an off road electric car for Ebaja competition in INDORE"
+  }],
+  
+  "skills": [{
+    "name": "Web Development",
+    "level": "Intermediate",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Proficient"
+  "language": "Tamil",
+    "fluency": "Mother Tongue"
+  "language": "Kannada",
+    "fluency": "Fluent"
+  "language": "Hindi",
+    "fluency": "Fluent"
+
+  }],
+  "interests": [{
+    "name": "Reading Books",
+    "name": "Photography",
+    "name": "Travelling",
+    "name": "Listening Music",
+    "name": "Podcasting",
+    
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  
+}
+
