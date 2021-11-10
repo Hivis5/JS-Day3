@@ -1,0 +1,40 @@
+Json Data
+
+jsonData:  [
+   one: [11, 12, 13, 14, 15],
+   two: [21, 22, 23],
+   three: [31, 32]
+]
+
+For Loop
+
+var json = {
+   jsonData:  [
+       {one: [11, 12, 13, 14, 15]},
+       {two: [21, 22, 23]},
+       {three: [31, 32]}
+   ]
+}; 
+for (var i=0; i<json.jsonData.length; i++) {
+   for (var key in json.jsonData[i]) {
+       for (var j= 0; j<json.jsonData[i][key].length; j++) {
+           console.log(json.jsonData[i][key][j])
+       }
+   }
+}
+
+The “While” Loop
+A While Loop also doesn’t have a counter and only runs if the specified condition is true.  Here’s an example demonstrating the while loop where the loop runs till infinity:
+var infiniteValue = true;
+while (infiniteValue) {
+   console.log("Infinite")
+}
+
+The ForEach() Loop
+This method is used for looping through an array element. Here’s an example of this:
+var names = ["jerry", "tom", "pluto", "micky", "mini"];
+names.forEach(function1);
+function function1(currentValue, index) {
+   console.log("Index in array is: "+index + " ::  Value is: "+currentValue);
+}
+
